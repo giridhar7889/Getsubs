@@ -5,7 +5,8 @@ import sys
 sys.path.insert(0, "src/")
 
 
-from get_sub import GetSub
+from subs_src import get_subs
+from get_subs import GetSub
 
 
 def main(args):
